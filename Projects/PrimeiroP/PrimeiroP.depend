@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502194922 source:c:\users\alunotgn\documents\projects\projectsleo\primeirop\main.c
+	<stdio.h>
+	<stdlib.h>
+
